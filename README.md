@@ -3,7 +3,7 @@ Associated blog post : https://link.medium.com/sCcFWZU68W and http://www.ateam-o
 
 **UPDATES:** 
 * Fixed OCI Collection Pre-request Script per https://developer.oracle.com/learn/technical-articles/making-calls-to-oci-api-with-postman
-* Updated variable names in Pre-request Script and Environment to make more sense in relation to the data required.
+* Updated variable names in Collection Pre-request Script and Environment to make more sense in relation to the data required.
 * Added sample IAM Identity Domain requests with reusable variables. 
 
 Youtube : https://www.youtube.com/watch?v=8x1-3-k0poM
