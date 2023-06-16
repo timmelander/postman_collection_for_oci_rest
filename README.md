@@ -6,7 +6,8 @@ Associated blog post : https://link.medium.com/sCcFWZU68W and http://www.ateam-o
 * Updated variable names in Collection Pre-request Script and Environment to make more sense in relation to the data required.
 * Added sample IAM Identity Domain requests with reusable variables. 
 
-Youtube : https://www.youtube.com/watch?v=8x1-3-k0poM
+**OVERVIEW:**
+* Youtube : https://www.youtube.com/watch?v=8x1-3-k0poM
 
 **INSTRUCTIONS:**
 
