@@ -7,7 +7,7 @@ Associated blog post : https://link.medium.com/sCcFWZU68W and http://www.ateam-o
 * Added sample IAM Identity Domain requests with reusable variables. 
 
 **OVERVIEW:**
-* Updates in Javascript on improvements which have been co-authored by Manansi Vaishampayan and Tim Melander.
+* Updates in Javascript on improvements co-authored by Manansi Vaishampayan and Tim Melander.
 * Youtube : https://www.youtube.com/watch?v=8x1-3-k0poM
 
 **INSTRUCTIONS:**
